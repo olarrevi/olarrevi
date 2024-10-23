@@ -3,8 +3,8 @@ Sobre mí
 
 Soy sociólogo especializado en análisis de datos y políticas públicas, con experiencia en investigación y colaboración con instituciones clave. Mi compromiso con la transparencia y el progreso social me impulsa a contribuir activamente al desarrollo de políticas públicas basadas en evidencia y a la mejora de la gestión pública.
 
-    Correo electrónico: oriollarrea111@gmail.com
-    Ubicación: Sant Just Desvern, Barcelona, España
+- Correo electrónico: oriollarrea111@gmail.com
+- Ubicación: Sant Just Desvern, Barcelona, España
 
 # Experiencia Profesional
 
