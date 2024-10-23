@@ -8,47 +8,43 @@ Soy sociólogo especializado en análisis de datos y políticas públicas, con e
 
 # Experiencia Profesional
 
-    ## Colaborador en el Proyecto Eating Matters (2021 - 2023)
-    Programa Estatal d'Investigació, Desenvolupament i Innovació. Implementación de técnicas estadísticas, visualización de datos, diseño de encuestas y dinamización de talleres sociales.
+## Colaborador en el Proyecto Eating Matters (2021 - 2023)
+Programa Estatal d'Investigació, Desenvolupament i Innovació. Implementación de técnicas estadísticas, visualización de datos, diseño de encuestas y dinamización de talleres sociales.
 
-    ## Avaluador de Polítiques Públiques (Enero - Abril 2024)
-    Fundació Carles Pi i Sunyer. Evaluación y selección de políticas municipales, contacto con responsables locales y redacción de informes de evaluación.
+## Avaluador de Polítiques Públiques (Enero - Abril 2024)
+Fundació Carles Pi i Sunyer. Evaluación y selección de políticas municipales, contacto con responsables locales y redacción de informes de evaluación.
 
-    ## Colaborador en el Panel de Participació i Gent Gran (Abril - Agosto 2024)
-    Revisión de encuestas, análisis de datos y compilación de información histórica en la Fundació Carles Pi i Sunyer.
+## Colaborador en el Panel de Participació i Gent Gran (Abril - Agosto 2024)
+Revisión de encuestas, análisis de datos y compilación de información histórica en la Fundació Carles Pi i Sunyer.
 
-    ## Colaborador en la Investigación sobre la Implementación de la Llei de Transparència 19/2014 (Abril - Septiembre 2024)
-    Evaluación de sitios web municipales, validación de datos y redacción de informes administrativos para asegurar el cumplimiento de la normativa.
+## Colaborador en la Investigación sobre la Implementación de la Llei de Transparència 19/2014 (Abril - Septiembre 2024)
+Evaluación de sitios web municipales, validación de datos y redacción de informes administrativos para asegurar el cumplimiento de la normativa.
 
-Formación Académica
+# Formación Académica
 
-    Grado en Sociología (2018 - 2022)
-    Universitat de Barcelona
+- Grado en Sociología (2018 - 2022). Universitat de Barcelona
+  
+- Postgrado en Análisis de Datos para la Gestión Pública (2022 - 2023). Universitat de Barcelona
 
-    Postgrado en Análisis de Datos para la Gestión Pública (2022 - 2023)
-    Universitat de Barcelona
+- Máster en Políticas Públicas, Derechos Sociales y Sostenibilidad (2023 - Actualidad). Universitat de Barcelona
 
-    Máster en Políticas Públicas, Derechos Sociales y Sostenibilidad (2023 - Actualidad)
-    Universitat de Barcelona
+# Competencias
 
-Competencias
+- Análisis de Datos: Experiencia con herramientas como SPSS, R y Python para la visualización y análisis.
+- Diseño Estadístico: Implementación de técnicas cuantitativas y cualitativas para la recopilación de datos.
+- Redacción de Informes: Capacidad para redactar informes evaluativos y administrativos, con foco en políticas públicas.
+- Comunicación y Dinamización: Facilitar talleres y trabajar con equipos multidisciplinarios.
 
-    Análisis de Datos: Experiencia con herramientas como SPSS, R y Python para la visualización y análisis.
-    Diseño Estadístico: Implementación de técnicas cuantitativas y cualitativas para la recopilación de datos.
-    Redacción de Informes: Capacidad para redactar informes evaluativos y administrativos, con foco en políticas públicas.
-    Comunicación y Dinamización: Facilitar talleres y trabajar con equipos multidisciplinarios.
+# Idiomas
 
-Idiomas
+- Catalán: Nativo (C1)
+- Castellano: Nativo
+- Inglés: Avanzado (B2)
 
-    Catalán: Nativo (C1)
-    Castellano: Nativo
-    Inglés: Avanzado (B2)
+# Publicaciones
+Co-autor de un artículo en la revista Appetite sobre la investigación del proyecto Eating Matters. DOI: 10.1016/j.appet.2024.107306
 
-Publicaciones
-
-    Co-autor de un artículo en la revista Appetite sobre la investigación del proyecto Eating Matters. DOI: 10.1016/j.appet.2024.107306
-
-Objetivo del Repositorio
+# Objetivo del Repositorio
 
 Este repositorio busca compartir herramientas, scripts y metodologías para el análisis de datos aplicados a la gestión pública, con el fin de promover la transparencia, la participación ciudadana y la mejora continua en las políticas públicas.
 Contacto
