@@ -6,18 +6,18 @@ Soy sociólogo especializado en análisis de datos y políticas públicas, con e
     Correo electrónico: oriollarrea111@gmail.com
     Ubicación: Sant Just Desvern, Barcelona, España
 
-Experiencia Profesional
+# Experiencia Profesional
 
-    Colaborador en el Proyecto Eating Matters (2021 - 2023)
+    ## Colaborador en el Proyecto Eating Matters (2021 - 2023)
     Programa Estatal d'Investigació, Desenvolupament i Innovació. Implementación de técnicas estadísticas, visualización de datos, diseño de encuestas y dinamización de talleres sociales.
 
-    Avaluador de Polítiques Públiques (Enero - Abril 2024)
+    ## Avaluador de Polítiques Públiques (Enero - Abril 2024)
     Fundació Carles Pi i Sunyer. Evaluación y selección de políticas municipales, contacto con responsables locales y redacción de informes de evaluación.
 
-    Colaborador en el Panel de Participació i Gent Gran (Abril - Agosto 2024)
+    ## Colaborador en el Panel de Participació i Gent Gran (Abril - Agosto 2024)
     Revisión de encuestas, análisis de datos y compilación de información histórica en la Fundació Carles Pi i Sunyer.
 
-    Colaborador en la Investigación sobre la Implementación de la Llei de Transparència 19/2014 (Abril - Septiembre 2024)
+    ## Colaborador en la Investigación sobre la Implementación de la Llei de Transparència 19/2014 (Abril - Septiembre 2024)
     Evaluación de sitios web municipales, validación de datos y redacción de informes administrativos para asegurar el cumplimiento de la normativa.
 
 Formación Académica
